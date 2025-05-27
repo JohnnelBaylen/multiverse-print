@@ -1,5 +1,8 @@
-# Installation 
+# Installation for TypeScript
 
+```bash
+cd typescript
 
-- ```tsc <file_name>.ts```
-- ```node <file name>.js```
+- tsc <file_name>.ts
+- node <file name>.js
+
