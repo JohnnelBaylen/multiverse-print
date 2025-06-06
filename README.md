@@ -53,6 +53,6 @@ UNIVERSAL-PRINT/
 
 - Johnnel Baylen
 
-    -  Aspiring Full-Stack Developer | Web Developer | Software Engineer
+    -  Aspiring Software Engineer
 
 
